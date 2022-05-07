@@ -235,6 +235,6 @@ Repository contains a high-quality README with description and a link to a walkt
 How to Submit the Challenge
 You are required to submit BOTH of the following for review:
 
-A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
+[A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.](https://drive.google.com/file/d/12xie1ooDTiF3TxNb0fdcjPuHDQV2O1mB/view)
 
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+[The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.](https://github.com/Sccr0123/E-Comm-Back-End)
